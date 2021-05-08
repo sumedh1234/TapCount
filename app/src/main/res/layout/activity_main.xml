@@ -13,7 +13,6 @@
         android:layout_gravity="center_vertical"
         android:layout_margin="10dp"
         android:fontFamily="serif"
-        android:background="@drawable/custom_button"
         android:text="@string/tap_me"
         android:textColor="@color/textColor"
         android:textSize="36sp"
