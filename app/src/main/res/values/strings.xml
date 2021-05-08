@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TapCount</string>
+    <string name="tap_me">TAP</string>
+    <string name="tap_count">Tap Count</string>
+    <string name="total_count">Total Bits</string>
+</resources>
